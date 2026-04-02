@@ -1,1 +1,1 @@
-worker: python main.py --simulate
+worker: python v10_elite.py --simulate
